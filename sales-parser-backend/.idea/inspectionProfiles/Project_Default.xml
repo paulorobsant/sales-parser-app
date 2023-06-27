@@ -1,0 +1,71 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="ng-disabled" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="styles" />
+            <item index="7" class="java.lang.String" itemvalue="div" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="html5lib-python" />
+            <item index="1" class="java.lang.String" itemvalue="scipy" />
+            <item index="2" class="java.lang.String" itemvalue="react-python" />
+            <item index="3" class="java.lang.String" itemvalue="pyzmail" />
+            <item index="4" class="java.lang.String" itemvalue="pillow" />
+            <item index="5" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="6" class="java.lang.String" itemvalue="numpy" />
+            <item index="7" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="8" class="java.lang.String" itemvalue="face-recognition" />
+            <item index="9" class="java.lang.String" itemvalue="dlib" />
+            <item index="10" class="java.lang.String" itemvalue="scrapy" />
+            <item index="11" class="java.lang.String" itemvalue="pandas" />
+            <item index="12" class="java.lang.String" itemvalue="seaborn" />
+            <item index="13" class="java.lang.String" itemvalue="future" />
+            <item index="14" class="java.lang.String" itemvalue="azure_ml_api_sdk" />
+            <item index="15" class="java.lang.String" itemvalue="nltk" />
+            <item index="16" class="java.lang.String" itemvalue="scikit_learn" />
+            <item index="17" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="18" class="java.lang.String" itemvalue="requests" />
+            <item index="19" class="java.lang.String" itemvalue="Flask" />
+            <item index="20" class="java.lang.String" itemvalue="azureml" />
+            <item index="21" class="java.lang.String" itemvalue="reportlab" />
+            <item index="22" class="java.lang.String" itemvalue="tortoise" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>

@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  sales-parser-backend:
+    build:
+      context: ./sales-parser-backend/Dockerfile
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+      
+  sales-parser-frontend:
+    build:
+      context: ./sales-parser-frontend/Dockerfile
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
